@@ -5,3 +5,5 @@ Penyelesaian masalah untuk internship
 ## Soal 3: Balanced Bracket
 ### Berapa ukuran kompleksitas kodinganmu?
 Ukuran dari kodingan adalah O(n). Alasannya adalah karena kode mengakses setiap elemen pada string expression sebanyak 1 kali untuk setiap perulangan.
+## Screenshot
+![Alt text](screenshot.png "a title")
