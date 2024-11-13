@@ -9,7 +9,6 @@ function lazyCatererSequence(n) {
 }
 
 const soal1 = document.querySelector("#soal-1");
-const soal3 = document.querySelector("#soal-3");
 
 // Hasil soal 1
 const soal1p1 = document.createElement("p");
