@@ -15,6 +15,9 @@ const soal1p1 = document.createElement("p");
 soal1p1.textContent = `Hasil untuk n = 7 adalah = ${lazyCatererSequence(7)}`;
 const soal1p2 = document.createElement("p");
 soal1p2.textContent = `Hasil untuk n = 20 adalah = ${lazyCatererSequence(20)}`;
+const soal1p3 = document.createElement("p");
+soal1p3.textContent = `Hasil untuk n = 10 adalah = ${lazyCatererSequence(10)}`;
 
 soal1.appendChild(soal1p1);
 soal1.appendChild(soal1p2);
+soal1.appendChild(soal1p3);

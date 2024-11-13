@@ -70,6 +70,15 @@ soal2p2.textContent = `Hasil untuk 4 pemain dengan urutan skor 100 80 80 70 perc
   3,
   [60, 70, 100]
 )}`;
+const soal2p3 = document.createElement("p");
+soal2p3.textContent = `Hasil untuk 5 pemain dengan urutan skor 100 80 80 70 50 percobaan 5 dengan urutan skor 40 50 60 70 100 = ${denseRanking(
+  5,
+  [100, 80, 80, 70, 50],
+  5,
+  [40, 50, 60, 70, 100]
+)}`;
 
 soal2.appendChild(soal2p1);
 soal2.appendChild(soal2p2);
+soal2.appendChild(soal2p3);
+
