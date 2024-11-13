@@ -4,4 +4,4 @@ Penyelesaian masalah untuk internship
 ## Soal 2: Dense Ranking
 ## Soal 3: Balanced Bracket
 ### Berapa ukuran kompleksitas kodinganmu?
-Ukuran dari kodingan adalah O(n). Alasannya adalah karena kita mengakses setiap elemen pada string expression sebanyak 1 kali untuk setiap perulangan.
+Ukuran dari kodingan adalah O(n). Alasannya adalah karena kode mengakses setiap elemen pada string expression sebanyak 1 kali untuk setiap perulangan.
