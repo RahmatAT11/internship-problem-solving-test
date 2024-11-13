@@ -1,14 +1,14 @@
 // fungsi soal 1
 function lazyCatererSequence(n) {
-    const arrayHasil = [];
-    for (let i = 0; i < n; i++) {
-        arrayHasil.push(((i * (i + 1)) / 2) + 1)
-    }
+  const arrayHasil = [];
+  for (let i = 0; i < n; i++) {
+    arrayHasil.push((i * (i + 1)) / 2 + 1);
+  }
 
-    return arrayHasil.join('-');
+  return arrayHasil.join("-");
 }
+
 const soal1 = document.querySelector("#soal-1");
-const soal2 = document.querySelector("#soal-2");
 const soal3 = document.querySelector("#soal-3");
 
 // Hasil soal 1
